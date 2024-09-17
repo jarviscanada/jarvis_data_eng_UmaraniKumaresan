@@ -1,2 +1,3 @@
 # Linux Cluster Monitoring Agent
-Introduction
+**Introduction**
+The scope of the Linux cluster monitoring project is to collect hardware specifications of the machine and automate to store data usage into psql database. This data helps to Jarvis Linux Cluster Administrator team (LCA) to monitor the real-time data  in server, perform data analytics and manage servers. This project can be deployed in any host machines for gathering real-time data. The target users for this project are system administrators or IT professionals responsible for managing servers.The technologies used in this project are Git, GitHub, Docker, Bash scripts,  PostgreSQL and Rocky Linux.
