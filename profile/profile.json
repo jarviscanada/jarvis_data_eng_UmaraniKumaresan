@@ -23,11 +23,11 @@
   "highlighted_projects": [
     {
       "description": "Worked on projects like a Dealer Management System providing functionalities for member registration, order management, and inventory tracking. Developed REST services and database procedures for a Dashboard. Also contributed to a Visit Management System, capturing location details for account managers visiting shops.",
-      "name": "Dealer Management system"
+      "name": "Dealer Management System"
     },
     {
       "description": "Developed a Student Management System with features including student registration, attendance tracking, allergy lists, academic reports, extracurricular activities, medical records, family contacts, and messaging for arrival, parent pickup, or bus drop-off.",
-      "name": "School Management system"
+      "name": "School Management System"
     }
   ],
   "jarvis_projects": [
@@ -71,7 +71,7 @@
   "others": [
     {
       "bullets": [
-        "Volunteer at Miniskool - Early childhood Education",
+        "Volunteer at Miniskool - Early Childhood Education",
         "Volunteer teaching Tamil at Tamil Sangam"
       ],
       "title": "Activities"
@@ -92,7 +92,7 @@
     },
     {
       "company": "Oman Computer Services",
-      "description": "Facilitated user acceptance and functional testing, ensuring a seamless user experience while reducing project risks through proactive mitigation. Conducted cross-browser compatibility testing, resolving all UI issues and collaborated with off-site teams, reducing project completion time. Developed custom UI test script templates and defect trackers and reducing defects.",
+      "description": "Facilitated user acceptance and functional testing, ensuring a seamless user experience while reducing project risks through proactive mitigation. Conducted cross-browser compatibility testing, resolved all UI issues, and collaborated with off-site teams, reducing project completion time. Developed custom UI test script templates and defect trackers and reduced defects.",
       "duration": "2010-2016",
       "title": "Quality Analyst"
     },

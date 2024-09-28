@@ -71,10 +71,10 @@ jarvis_projects:
 # Please read the project description guideline carefully. Make sure you follow the simplified SDLC pattern. (t.ly/NlXQ)
 highlighted_projects:
     #project name
-  - name: "Dealer Management system"
+  - name: "Dealer Management System"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
     description: Worked on projects like a Dealer Management System providing functionalities for member registration, order management, and inventory tracking. Developed REST services and database procedures for a Dashboard. Also contributed to a Visit Management System, capturing location details for account managers visiting shops.
-  - name: "School Management system"
+  - name: "School Management System"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
     description: Developed a Student Management System with features including student registration, attendance tracking, allergy lists, academic reports, extracurricular activities, medical records, family contacts, and messaging for arrival, parent pickup, or bus drop-off.
 #List of professional experience
@@ -94,7 +94,7 @@ professional_experience:
   - title: "Quality Analyst"
     company: "Oman Computer Services"
     duration: "2010-2016"
-    description: "Facilitated user acceptance and functional testing, ensuring a seamless user experience while reducing project risks through proactive mitigation. Conducted cross-browser compatibility testing, resolving all UI issues and collaborated with off-site teams, reducing project completion time. Developed custom UI test script templates and defect trackers and reducing defects."
+    description: "Facilitated user acceptance and functional testing, ensuring a seamless user experience while reducing project risks through proactive mitigation. Conducted cross-browser compatibility testing, resolved all UI issues, and collaborated with off-site teams, reducing project completion time. Developed custom UI test script templates and defect trackers and reduced defects."
   - title: "Technical Support Engineer"
     company: "Slash Support"
     duration: "2006-2009"
@@ -121,7 +121,7 @@ others:
     #category
   - title: "Activities"
     bullets:
-      - "Volunteer at Miniskool - Early childhood Education"
+      - "Volunteer at Miniskool - Early Childhood Education"
       - "Volunteer teaching Tamil at Tamil Sangam"
 
 
