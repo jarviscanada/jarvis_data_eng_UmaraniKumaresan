@@ -31,9 +31,9 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_UmaraniKum
 
 
 ## Highlighted Projects
-**Dealer Management system**: Worked on projects like a Dealer Management System providing functionalities for member registration, order management, and inventory tracking. Developed REST services and database procedures for a Dashboard. Also contributed to a Visit Management System, capturing location details for account managers visiting shops.
+**Dealer Management System**: Worked on projects like a Dealer Management System providing functionalities for member registration, order management, and inventory tracking. Developed REST services and database procedures for a Dashboard. Also contributed to a Visit Management System, capturing location details for account managers visiting shops.
 
-**School Management system**: Developed a Student Management System with features including student registration, attendance tracking, allergy lists, academic reports, extracurricular activities, medical records, family contacts, and messaging for arrival, parent pickup, or bus drop-off.
+**School Management System**: Developed a Student Management System with features including student registration, attendance tracking, allergy lists, academic reports, extracurricular activities, medical records, family contacts, and messaging for arrival, parent pickup, or bus drop-off.
 
 
 ## Professional Experiences
@@ -42,7 +42,7 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_UmaraniKum
 
 **Software Developer, Infoline Oman (2016-2022)**: Actively participated in Agile ceremonies, driving project success and team collaboration. Experienced in developing and scaling Java-based web applications. Collaborated with cross-functional teams to deliver high-quality software solutions. Proficient in translating business requirements into technical solutions, creating comprehensive documentation, and facilitating review sessions.  Introduced process improvements, reducing project delivery time and enhancing software quality.
 
-**Quality Analyst, Oman Computer Services (2010-2016)**: Facilitated user acceptance and functional testing, ensuring a seamless user experience while reducing project risks through proactive mitigation. Conducted cross-browser compatibility testing, resolving all UI issues and collaborated with off-site teams, reducing project completion time. Developed custom UI test script templates and defect trackers and reducing defects.
+**Quality Analyst, Oman Computer Services (2010-2016)**: Facilitated user acceptance and functional testing, ensuring a seamless user experience while reducing project risks through proactive mitigation. Conducted cross-browser compatibility testing, resolved all UI issues, and collaborated with off-site teams, reducing project completion time. Developed custom UI test script templates and defect trackers and reduced defects.
 
 **Technical Support Engineer, Slash Support (2006-2009)**: Provided technical support for Linksys products, resolving customer issues on first contact. Troubleshoot technical issues maintained accurate customer records and ensured data integrity.
 
@@ -56,5 +56,5 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_UmaraniKum
 
 
 ## Miscellaneous
-- Volunteer at Miniskool - Early childhood Education
+- Volunteer at Miniskool - Early Childhood Education
 - Volunteer teaching Tamil at Tamil Sangam
