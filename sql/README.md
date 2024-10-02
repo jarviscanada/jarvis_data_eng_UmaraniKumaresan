@@ -56,5 +56,5 @@ CREATE TABLE cd.bookings
 - [queries.sql](https://github.com/jarviscanada/jarvis_data_eng_UmaraniKumaresan/blob/develop/sql/queries.sql)
  
 ## Database and Tables
-![image]
+![image](assets/Group 6.jpg)
      
