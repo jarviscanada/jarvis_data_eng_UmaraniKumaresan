@@ -9,7 +9,7 @@ github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_UmaraniKum
 # 2) explain your passion for the role you are looking for (e.g. developer, BSA, QA, tech support, etc.)
 # 3) mention what kind of role you are looking for
 # 4) briefly talk about your qualifications (soft and tech) to justify why the hiring manager should hire your 
-summary: I have completed a Postgraduate Degree in Project Management from Algoma University, Canada, and hold a Bachelor's Degree in Electrical and Electronics Engineering from Anna University, India. Currently, I am a Software and Data Engineer at Jarvis Technologies Group Inc., where I leverage my skills to develop efficient and effective software systems. During my postgraduate program, I was a peer tutor, providing individual and small-group lectures to fellow students. I have strong expertise in managing product backlogs, tracking team velocity, and delivering incremental value in an Agile environment. I am well-versed in facilitating Sprint Planning, Daily Stand-ups, Sprint Reviews, and Retrospectives, ensuring effective collaboration and communication within diverse teams. With a solid proficiency in Java and Relational Databases, I greatly enjoy organizing and overcoming technical challenges, exploring new technologies, and developing software across various platforms. I am quick to adapt and eager to learn, constantly striving to expand my knowledge and skill set.
+summary: I have completed a Postgraduate Degree in Project Management from Algoma University, Canada, and hold a Bachelor's Degree in Electrical and Electronics Engineering from Anna University, India. Currently, I am a Software and Data Engineer at Jarvis Technologies Group Inc., where I leverage my skills to develop efficient and effective software systems. During my postgraduate program, I was a peer tutor, providing individual and small-group lectures to fellow students. I have proven track record in communication with strong expertise in managing product backlogs, tracking team velocity, and delivering incremental value in an Agile environment. I am well-versed in facilitating Sprint Planning, Daily Stand-ups, Sprint Reviews, and Retrospectives, ensuring effective collaboration and communication within diverse teams.I also have strong technical skills with a solid proficiency in Java and Relational Databases, I greatly enjoy organizing and overcoming technical challenges, exploring new technologies, and developing software across various platforms. 
  
  # Group your skills by level.
 # Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
@@ -29,6 +29,7 @@ skills:
     - Jira
     - Springboot     
     - JavaScript
+    - Kanban
   # At least 5 skills
   familiar:
     - HTML
@@ -36,6 +37,7 @@ skills:
     - JQuery
     - Confluence
     - Clickup
+    - Asana
 
 # List of Jarvis projects
 jarvis_projects:
@@ -43,28 +45,8 @@ jarvis_projects:
     git_url: "/linux_sql"
     # Please read the project description guideline carefully. Make sure you follow the simplified SDLC pattern. (t.ly/NlXQ)
     # Please include the following keywords: CentOS, Bash/Shell, docker, RDBMS/SQL/Postgresql, crontab, data analytics
-    description: Developed a Cluster Monitor Agent that allows users to monitor and store hardware specifications and usage data for multiple Linux systems using bash scripts. The monitoring agent, when installed on each node, automatically collects hardware information and resource usage data from the server and persists it to the PostgreSQL database provisioned using Docker. Periodically, resource usage is obtained using Crontab, and then the collected data can be manipulated using SQL queries. Implemented Git for version control and used GitHub as the central repository, enabling effective code review and collaboration among team members.
-  - name: "Core Java Apps"
-    git_url: "/core_java"
-    description: ""
-  # Please remove not started projects below so that they don't show up in your profile for now.
-  # You will need to add a project back to your profile upon completion
-  - name: "Spring RESTful Microservices App"
-    git_url: "/springboot"
-    #Keywords: Java8, Spring Boot, REST API, Swagger, Postman, Microservice, Docker, JDBC/JDBCTemplate/DataSource, RDBMS/SQL, Junit, Mockito, etc.
-    description: ""
-  - name: "Python Data Analytics"
-    git_url: "/python_data_anlytics"
-    description: ""
-  - name: "Hadoop"
-    git_url: "/hadoop"
-    description: ""
-  - name: "Spark"
-    git_url: "/spark"
-    description: ""
-  - name: "Cloud/DevOps"
-    git_url: "/cloud_devops"
-    description: ""
+    description: Developed a Cluster Monitor Agent that allows users to monitor and store hardware specifications and usage data for multiple Linux systems using bash scripts. The monitoring agent, when installed on each node, automatically collects hardware information and resource usage data from the server and persists it to the PostgreSQL database provisioned using Docker. Implemented Git for version control and used GitHub as the central repository, enabling effective code review and collaboration among team members.
+    
 
 # List of personal or academic projects
 # Feel free to add more projects
@@ -73,11 +55,12 @@ highlighted_projects:
     #project name
   - name: "Dealer Management System"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: Worked on projects like a Dealer Management System providing functionalities for member registration, order management, and inventory tracking. Developed REST services and database procedures for a Dashboard. Also contributed to a Visit Management System, capturing location details for account managers visiting shops.
+    description: Worked on projects like a Dealer Management System providing functionalities for member registration, order management, and inventory tracking. Developed REST services and database procedures for a Dashboard. Also contributed to a Visit Management System, capturing location details for account managers visiting shops. The technologies used are Figma for prototype, React for web, Reat native for app,Spring boot Rest APIs and Oracle.
   - name: "School Management System"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: Developed a Student Management System with features including student registration, attendance tracking, allergy lists, academic reports, extracurricular activities, medical records, family contacts, and messaging for arrival, parent pickup, or bus drop-off.
-#List of professional experience
+    description: Developed a Student Management System with features including student registration, attendance tracking, allergy lists, academic reports, extracurricular activities, medical records, family contacts, and messaging for arrival, parent pickup, or bus drop-off. The technologies used Figma (UI design), Eclipse (Spring boot, Java) , Toad (Oracle), VM, Redhat,  Openshift
+     
+      #List of professional experience
 # Please read the project description guideline carefully. Make sure you follow the simplified SDLC pattern. (t.ly/NlXQ)
 #The description must be more than 25 words. If your experience is not software related, please focus on soft skills and achievements (e.g. team collaboration, problem-solving, improvements, communication).
 professional_experience:
@@ -98,7 +81,7 @@ professional_experience:
   - title: "Technical Support Engineer"
     company: "Slash Support"
     duration: "2006-2009"
-    description: "Provided technical support for Linksys products, resolving customer issues on first contact. Troubleshoot technical issues maintained accurate customer records and ensured data integrity."
+    description: "Provided technical support for Linksys products, resolving customer issues on first contact. Resolved technical issues, maintained accurate customer records, and ensured data integrity."
 
 #List of edcuation
 education: 
@@ -107,14 +90,14 @@ education:
     degree: "Post Graduate Certificate in Project Management"
     department: "Project Management"
     # optional
-    awards_achievements: 
-      - "GPA: 3.7/4.0"
+    # awards_achievements: 
+    #  - "GPA: 3.7/4.0"
   - school_name: "Anna University"
     duration: "2002-2006"
     degree: "Bachelor of Engineering"
     department: "Electrical and Electronics Engineering"
-    awards_achievements: 
-      - "GPA: 7.6/10.0"
+      # awards_achievements: 
+      
 
 #Optional section
 others:
