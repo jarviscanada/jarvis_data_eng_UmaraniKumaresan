@@ -90,13 +90,14 @@ education:
     degree: "Post Graduate Certificate in Project Management"
     department: "Project Management"
     # optional
-    # awards_achievements: 
-    #  - "GPA: 3.7/4.0"
+    awards_achievements: 
+     - "GPA: 3.7/4.0"
   - school_name: "Anna University"
     duration: "2002-2006"
     degree: "Bachelor of Engineering"
     department: "Electrical and Electronics Engineering"
-      # awards_achievements: 
+    awards_achievements: 
+      - "First class with Dinstinction"
       
 
 #Optional section
