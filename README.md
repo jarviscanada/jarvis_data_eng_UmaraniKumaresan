@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Umarani Kumaresan . Jarvis Consulting
 
 I have completed a Postgraduate Degree in Project Management from Algoma University, Canada, and hold a Bachelor's Degree in Electrical and Electronics Engineering from Anna University, India. Currently, I am a Software and Data Engineer at Jarvis Technologies Group Inc., where I leverage my skills to develop efficient and effective software systems. During my postgraduate program, I was a peer tutor, providing individual and small-group lectures to fellow students. I have proven track record in communication with strong expertise in managing product backlogs, tracking team velocity, and delivering incremental value in an Agile environment. I am well-versed in facilitating Sprint Planning, Daily Stand-ups, Sprint Reviews, and Retrospectives, ensuring effective collaboration and communication within diverse teams.I also have strong technical skills with a solid proficiency in Java and Relational Databases, I greatly enjoy organizing and overcoming technical challenges, exploring new technologies, and developing software across various platforms.
@@ -46,3 +47,14 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_UmaraniKum
 ## Miscellaneous
 - Volunteer at Miniskool - Early Childhood Education
 - Volunteer teaching Tamil at Tamil Sangam
+=======
+# Jarvis Data Engineering Training
+1. [Linux Cluster Monitoring Agent (Linux and SQL)](./linux_sql) In-progress
+2. [Core Java Apps](./core_java) In-progress
+3. [Python Data Analytics](./python_data_analytics) In-progress
+4. [Spring Boot Trading REST API](./springboot) In-progress
+5. [Javascript Front End](./javascript) In-progress
+6. [Hadoop/Hive](./hadoop) In-progress
+7. [Spark/Scala](./spark) In-progress
+8. [Cloud/DevOps](./cloud_devops) In-progress
+>>>>>>> develop
