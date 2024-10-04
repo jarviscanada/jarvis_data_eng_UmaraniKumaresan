@@ -58,7 +58,7 @@ highlighted_projects:
     description: Worked on projects like a Dealer Management System providing functionalities for member registration, order management, and inventory tracking. Developed REST services and database procedures for a Dashboard. Also contributed to a Visit Management System, capturing location details for account managers visiting shops. The technologies used are Figma for prototype, React for web, Reat native for app,Spring boot Rest APIs and Oracle.
   - name: "School Management System"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: Developed a Student Management System with features including student registration, attendance tracking, allergy lists, academic reports, extracurricular activities, medical records, family contacts, and messaging for arrival, parent pickup, or bus drop-off. The technologies used Figma (UI design), Eclipse (Spring boot, Java) , Toad (Oracle), VM, Redhat,  Openshift
+    description: Developed a Student Management System with features including student registration, attendance tracking, allergy lists, academic reports, extracurricular activities, medical records, family contacts, and messaging for arrival, parent pickup, or bus drop-off. The technologies used Figma (UI design), Spring boot, Java , Oracle, Linux, Redhat,  Openshift
      
       #List of professional experience
 # Please read the project description guideline carefully. Make sure you follow the simplified SDLC pattern. (t.ly/NlXQ)
@@ -69,7 +69,7 @@ professional_experience:
     company: "Jarvis"
     duration: "2024-present"
     # The project description must start with an action verb (https://bit.ly/3guO98u)
-    description: "At Jarvis, I am part of a cross-functional team, working collaboratively to design, develop, and implement software systems. With my strong skills in Java and SQL, I am responsible for writing high-quality, efficient, and scalable code. I use cutting-edge technologies such as Docker, Linux/Bash, Git, and GitHub to manage the software development process and ensure code reliability. I am dedicated to delivering software features that meet the requirements, and I am always up to date with the latest industry trends and best practices. Additionally, I actively participate in Agile development processes, using the Scrum methodology to meet project deadlines and deliver high-quality software solutions."
+    description: "At Jarvis, I am part of a cross-functional team, working collaboratively to design, develop, and implement software systems. With my strong skills in Java and SQL, I am responsible for writing high-quality, efficient, and scalable code. The technologies used includes Docker, Linux/Bash, Git, and GitHub to manage the software development process and ensure code reliability. I am dedicated to delivering software features that meet the requirements, and I am always up to date with the latest industry trends and best practices. Additionally, I actively participate in Agile development processes, using the Scrum methodology to meet project deadlines and deliver high-quality software solutions."
   - title: "Software Developer"
     company: "Infoline Oman"
     duration: "2016-2022"
