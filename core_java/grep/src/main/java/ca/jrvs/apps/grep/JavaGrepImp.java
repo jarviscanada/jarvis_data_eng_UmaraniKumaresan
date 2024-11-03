@@ -25,6 +25,7 @@ public static void main(String[] args) {
     javaGrepImp.setRootPath(args[1]);
     javaGrepImp.setOutFile(args[2]);
 
+
     logger.debug("Input regular expression is " + javaGrepImp.getRegex() );
     logger.debug("Output file is " + javaGrepImp.getOutFile());
     logger.debug("Path name is " + javaGrepImp.getRootPath());
@@ -51,6 +52,7 @@ public static void main(String[] args) {
     logger.debug("Searching for text");
     List<File> liftOfFile = listFiles(rootPath);
     logger.info("The number of file pattern is searching "+ liftOfFile.size());
+
     List<String> matchedStrings = new ArrayList<>();
     for(File file : liftOfFile) {
       List<String> listOfString = readLines(file);
