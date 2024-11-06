@@ -13,7 +13,7 @@ docker pull umarani100/grep
 
 #**-v \pwd`/data:/data**: Maps the data directory from current host directory (using pwd to get the current directory) to /data inside the container. This makes files in data accessible to the container.
 
-docker run -v `pwd`/data:/data -v `pwd`/log:log umarani100/grep .*Romeo.*Juliet.* /data   /out/result.txt
+docker run -v `pwd`/data:/data -v `pwd`/log:log umarani100/grep .*Romeo.*Juliet.* /data   /log/grep.out
 ```
 
 ## Implementation
