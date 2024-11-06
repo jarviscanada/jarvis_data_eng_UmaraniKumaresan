@@ -7,14 +7,18 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.util.ArrayList;
-import java.util.List;
-import java.util.stream.Collectors;
-import java.util.stream.Stream;
 import org.apache.log4j.BasicConfigurator;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-public class JavaGrepLambdaImp extends JavaGrepImp {
+import java.util.List;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
+
+import org.apache.log4j.BasicConfigurator;
+import org.slf4j.LoggerFactory;
+
+public class JavaGrepLambdaImp implements JavaGrepLambda {
 
     final Logger logger = LoggerFactory.getLogger(JavaGrepLambdaImp.class);
 
@@ -76,7 +80,7 @@ public class JavaGrepLambdaImp extends JavaGrepImp {
     @Override
     public Stream<String> readLines(File inputFile) {
         //logger.debug("Path: " + inputFile.getPath());
-        ArrayList<String> matchedArrayList = new ArrayList<String>();
+        List<String> matchedArrayList = new ArrayList<String>();
 
         try (Stream<String> lineStream = Files.lines(Paths.get(inputFile.getPath()))) {
 
@@ -89,8 +93,9 @@ public class JavaGrepLambdaImp extends JavaGrepImp {
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
+        Stream<String> f = matchedArrayList.stream();
 
-        return matchedArrayList.stream();
+        return f;
     }
 
     @Override
@@ -108,5 +113,47 @@ public class JavaGrepLambdaImp extends JavaGrepImp {
         });
 
         bufferedWriter.close();
+    }
+
+    @Override
+    public boolean containsPattern(String line) {
+        // TODO Auto-generated method stub
+        return false;
+    }
+
+    @Override
+    public String getRootPath() {
+        // TODO Auto-generated method stub
+        return null;
+    }
+
+    @Override
+    public void setRootPath(String rootPath) {
+        // TODO Auto-generated method stub
+
+    }
+
+    @Override
+    public String getRegex() {
+        // TODO Auto-generated method stub
+        return null;
+    }
+
+    @Override
+    public void setRegex(String regex) {
+        // TODO Auto-generated method stub
+
+    }
+
+    @Override
+    public String getOutFile() {
+        // TODO Auto-generated method stub
+        return null;
+    }
+
+    @Override
+    public void setOutFile(String outFile) {
+        // TODO Auto-generated method stub
+
     }
 }
