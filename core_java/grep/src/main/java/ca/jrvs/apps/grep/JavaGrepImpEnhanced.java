@@ -11,7 +11,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 
-public class JavaGrepImp implements JavaGrep {
+public class JavaGrepImpEnhanced implements JavaGrep {
     final static Logger logger = LoggerFactory.getLogger(JavaGrepImp.class);
 
     private String regex;
