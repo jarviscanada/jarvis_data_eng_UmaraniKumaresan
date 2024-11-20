@@ -26,7 +26,7 @@
       "name": "Dealer Management System"
     },
     {
-      "description": "Developed a Student Management System with features including student registration, attendance tracking, allergy lists, academic reports, extracurricular activities, medical records, family contacts, and messaging for arrival, parent pickup, or bus drop-off. The technologies used Figma (UI design), Eclipse (Spring boot, Java) , Toad (Oracle), VM, Redhat,  Openshift",
+      "description": "Developed a Student Management System with features including student registration, attendance tracking, allergy lists, academic reports, extracurricular activities, medical records, family contacts, and messaging for arrival, parent pickup, or bus drop-off. The technologies used Figma (UI design), Spring boot, Java , Oracle, Linux, Redhat,  Openshift",
       "name": "School Management System"
     }
   ],
@@ -35,6 +35,19 @@
       "description": "Developed a Cluster Monitor Agent that allows users to monitor and store hardware specifications and usage data for multiple Linux systems using bash scripts. The monitoring agent, when installed on each node, automatically collects hardware information and resource usage data from the server and persists it to the PostgreSQL database provisioned using Docker. Implemented Git for version control and used GitHub as the central repository, enabling effective code review and collaboration among team members.",
       "git_url": "/linux_sql",
       "name": "Linux Cluster Resource Monitoring App"
+    },
+    {
+      "description": "Gained expertise in developing and managing relational databases using PostgreSQL. Proficient in performing CRUD operations, data modeling, and applying normalization and denormalization principles. Designed advanced SQL queries for data manipulation and extraction, utilizing techniques such as joins, subqueries, and aggregations to manage data relationships and conduct in-depth analysis. Acquired a solid understanding of key database concepts, including entity relationships, primary and foreign keys, and normalization forms.",
+      "git_url": "/sql",
+      "name": "RDBMS and SQL"
+    },
+    {
+      "description": [
+        "Grep App: Developed a Java-based grep application for text pattern searching in files. Initially built with basic functionality, it was later optimized using Lambda and Stream APIs for improved performance and memory efficiency. The application handles large files effectively and was containerized using Docker for consistent deployment across environments, showcasing expertise in Java, modern APIs, and containerization.",
+        "StockQuote App:"
+      ],
+      "git_url": "/core_java",
+      "name": "Core Java Apps"
     }
   ],
   "name": "Umarani Kumaresan",
@@ -50,7 +63,7 @@
   "professional_experience": [
     {
       "company": "Jarvis",
-      "description": "At Jarvis, I am part of a cross-functional team, working collaboratively to design, develop, and implement software systems. With my strong skills in Java and SQL, I am responsible for writing high-quality, efficient, and scalable code. I use cutting-edge technologies such as Docker, Linux/Bash, Git, and GitHub to manage the software development process and ensure code reliability. I am dedicated to delivering software features that meet the requirements, and I am always up to date with the latest industry trends and best practices. Additionally, I actively participate in Agile development processes, using the Scrum methodology to meet project deadlines and deliver high-quality software solutions.",
+      "description": "At Jarvis, I am part of a cross-functional team, working collaboratively to design, develop, and implement software systems. With my strong skills in Java and SQL, I am responsible for writing high-quality, efficient, and scalable code. The technologies used includes Docker, Linux/Bash, Git, and GitHub to manage the software development process and ensure code reliability. I am dedicated to delivering software features that meet the requirements, and I am always up to date with the latest industry trends and best practices. Additionally, I actively participate in Agile development processes, using the Scrum methodology to meet project deadlines and deliver high-quality software solutions.",
       "duration": "2024-present",
       "title": "Software Developer"
     },
