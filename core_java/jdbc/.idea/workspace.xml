@@ -5,30 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17402f40-8b35-4260-88aa-b966d8736c27" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../grep/grep/grep.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../stockquote/src/main/java/ca/jrvs/apps/stockquote/DatabaseConnectionManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../stockquote/src/main/java/ca/jrvs/apps/stockquote/JDBC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../stockquote/src/main/java/ca/jrvs/apps/stockquote/JDBCExcecuter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../core_java.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../core_java.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../grep/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../grep/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../grep/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../grep/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../grep/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../grep/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../grep/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../grep/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../grep/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../grep/.idea/sbt.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../grep/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../grep/out/production/core_java/main/java/ca/jrvs/apps/grep/JavaGrep.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../grep/out/production/core_java/main/java/ca/jrvs/apps/grep/JavaGrepImp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../grep/out/production/core_java/main/java/ca/jrvs/apps/grep/JavaGrepLambda.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../grep/out/production/core_java/main/java/ca/jrvs/apps/grep/JavaGrepLambdaImp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../grep/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../grep/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../grep/src/main/java/ca/jrvs/apps/grep/JavaGrepImpEnhanced.java" beforeDir="false" afterPath="$PROJECT_DIR$/../grep/src/main/java/ca/jrvs/apps/grep/JavaGrepImpEnhanced.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +60,7 @@
       <workItem from="1731811850287" duration="124000" />
       <workItem from="1731939481241" duration="1318000" />
       <workItem from="1731941310914" duration="5776000" />
+      <workItem from="1732113456713" duration="8000" />
     </task>
     <servers />
   </component>
