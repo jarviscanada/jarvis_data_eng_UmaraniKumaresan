@@ -4,5 +4,11 @@
 3. [Python Data Analytics](./python_data_analytics) In-progress
 4. [Spring Boot Trading REST API](./springboot) In-progress
 5. [Javascript Front End](./javascript) In-progress
+<<<<<<< HEAD
 6. [Cloud/DevOps](./cloud_devops) In-progress
 
+=======
+6. [Hadoop/Hive](./hadoop) In-progress
+7. [Spark/Scala](./spark) In-progress
+8. [Cloud/DevOps](./cloud_devops) In-progress
+>>>>>>> cffbef9a344f49ba55b1f12bccd674cbf7578245
