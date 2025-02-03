@@ -53,8 +53,11 @@ jarvis_projects:
     git_url: "/core_java"
     description: 
       - "Grep App: Developed a Java-based grep application for text pattern searching in files. Initially built with basic functionality, it was later optimized using Lambda and Stream APIs for improved performance and memory efficiency. The application handles large files effectively and was containerized using Docker for consistent deployment across environments, showcasing expertise in Java, modern APIs, and containerization."
-      - "StockQuote App:"
-
+      - "StockQuote App: This Application is a Personal Stock Wallet that allows users to effortlessly buy, sell, and track all their stocks in one place. This acts as a central repository for all the company stocks utilizing PostgreSQL via JDBC. This app is portable across all platforms."
+  - name: "Python Data Analytics"
+    git_url: "/feature/python"
+    description: Developed a data analytics pipeline for a UK-based online giftware retailer to analyze transactional data using Python, Pandas, NumPy, and Matplotlib. Extracted insights on sales trends, customer behavior, and marketing optimization through data cleaning, feature engineering, and exploratory data analysis (EDA). Identified revenue fluctuations, customer retention patterns, and seasonal sales trends. Conducted RFM (Recency, Frequency, Monetary) analysis to segment customers into categories such as "Loyal Customers" and "At Risk," enhancing targeted marketing strategies. Ensured data integrity, accurate visualizations, and modular code, delivering a reproducible and scalable analysis documented in Jupyter Notebook and deployed via GitHub.
+  
 # List of personal or academic projects
 # Feel free to add more projects
 # Please read the project description guideline carefully. Make sure you follow the simplified SDLC pattern. (t.ly/NlXQ)
