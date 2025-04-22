@@ -26,7 +26,7 @@ For this proof of concept, a sample of the data was extracted and moved to a Pos
 
 # Data Analytics and Wrangling  
 
-### Jupyter Notebook Analysis  
+## Jupyter Notebook Analysis  
 
 To address LGS's revenue stagnation, the analysis in this PoC focused on:  
 
