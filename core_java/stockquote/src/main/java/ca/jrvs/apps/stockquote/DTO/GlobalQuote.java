@@ -5,8 +5,7 @@ import com.fasterxml.jackson.annotation.JsonProperty;
 public class GlobalQuote {
 
 
-
-    @JsonProperty("01. symbol")
+   @JsonProperty("01. symbol")
     private String symbol;
 
     @JsonProperty("02. open")
