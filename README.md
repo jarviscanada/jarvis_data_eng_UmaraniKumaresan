@@ -1,14 +1,14 @@
 # Umarani Kumaresan . Jarvis Consulting
 
-I have completed a Postgraduate Degree in Project Management from Algoma University, Canada, and hold a Bachelor's Degree in Electrical and Electronics Engineering from Anna University, India. Currently, I am a Software and Data Engineer at Jarvis Technologies Group Inc., where I leverage my skills to develop efficient and effective software systems. During my postgraduate program, I was a peer tutor, providing individual and small-group lectures to fellow students. I have proven track record in communication with strong expertise in managing product backlogs, tracking team velocity, and delivering incremental value in an Agile environment. I am well-versed in facilitating Sprint Planning, Daily Stand-ups, Sprint Reviews, and Retrospectives, ensuring effective collaboration and communication within diverse teams.I also have strong technical skills with a solid proficiency in Java and Relational Databases, I greatly enjoy organizing and overcoming technical challenges, exploring new technologies, and developing software across various platforms.
+I have completed a Postgraduate Degree in Project Management from Algoma University, Canada, and hold a Bachelor's Degree in Electrical and Electronics Engineering from Anna University, India. Currently, I am a Software and Data Engineer at Jarvis Technologies Group Inc., where I leverage my skills to develop and deploy efficient and effective software systems. During my postgraduate program, I was a peer tutor, providing individual and small-group lectures to fellow students. I have a proven track record in communication with strong expertise in managing product backlogs, tracking team velocity, and delivering incremental value in an Agile environment. I am well-versed in facilitating Sprint Planning, Daily Stand-ups, Sprint Reviews, and Retrospectives, ensuring effective collaboration and communication within diverse teams. I also have strong technical skills and a solid proficiency in Java, relational databases, and cloud platforms, including Microsoft Azure and Redhat Openshift. Skilled in system support across Unix/Linux and Windows Server, with hands-on experience in CI/CD tools like Jenkins, GitHub, and Artifactory. I greatly enjoy organizing and overcoming technical challenges, exploring new technologies, and developing and supporting software across various platforms.
 
 ## Skills
 
-**Proficient:** Java, Linux/Bash, RDBMS/SQL, Agile/Scrum, Git
+**Proficient:** Java, Linux/Bash, RDBMS/SQL, Agile/Scrum, Git and Github, PySpark ETL and Data Processing, Databricks
 
-**Competent:** Docker, Rest APIs, Jira, Springboot, JavaScript, Kanban
+**Competent:** Docker, Redhat Openshift, Microsoft Azure and Windows server, Rest APIs, Jira, HDFS, Springboot, JavaScript, Kanban
 
-**Familiar:** HTML, CSS, JQuery, Confluence, Clickup, Asana
+**Familiar:** HTML, CSS, JQuery, Jenkins, Confluence, Clickup, Asana
 
 ## Jarvis Projects
 
@@ -25,6 +25,10 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_UmaraniKum
   - StockQuote App: This Application is a Personal Stock Wallet that allows users to effortlessly buy, sell, and track all their stocks in one place. This acts as a central repository for all the company stocks utilizing PostgreSQL via JDBC. This app is portable across all platforms.
 
 **Python Data Analytics** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_UmaraniKumaresan/tree/master/feature/python)]: Developed a data analytics pipeline for a UK-based online giftware retailer to analyze transactional data using Python, Pandas, NumPy, and Matplotlib. Extracted insights on sales trends, customer behavior, and marketing optimization through data cleaning, feature engineering, and exploratory data analysis (EDA). Identified revenue fluctuations, customer retention patterns, and seasonal sales trends. Conducted RFM (Recency, Frequency, Monetary) analysis to segment customers into categories such as "Loyal Customers" and "At Risk," enhancing targeted marketing strategies. Ensured data integrity, accurate visualizations, and modular code, delivering a reproducible and scalable analysis documented in Jupyter Notebook and deployed via GitHub.
+
+**Hadoop** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_UmaraniKumaresan/tree/master/feature/python)]: Designed and implemented a scalable big data processing solution on Google Cloud Platform (GCP) using Dataproc. Integrated Apache Zeppelin to enable interactive analytics and utilized the Hive interpreter for SQL-based querying of distributed datasets. The solution delivers enterprise-grade real-time analytics and efficient data processing.
+
+**Spark** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_UmaraniKumaresan/tree/master/feature/python)]: Conducted data analysis on the World Development Indicators (WDI) and retail datasets using Zeppelin notebooks on GCP Dataproc and Azure Databricks. Utilized PySpark to process large-scale distributed data efficiently. Extracted key economic indicators such as country-wise GDP from the WDI dataset, and derived actionable business insights from the retail dataset, including total revenue, sales trends, and new monthly user metrics to support strategic growth decisions.
 
 
 ## Highlighted Projects
