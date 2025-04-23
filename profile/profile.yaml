@@ -53,7 +53,7 @@ jarvis_projects:
     description: Developed a Cluster Monitor Agent that allows users to monitor and store hardware specifications and usage data for multiple Linux systems using bash scripts. The monitoring agent, when installed on each node, automatically collects hardware information and resource usage data from the server and persists it to the PostgreSQL database provisioned using Docker. Implemented Git for version control and used GitHub as the central repository, enabling effective code review and collaboration among team members.
   - name: "RDBMS and SQL"
     git_url: "/sql"
-    description: Gained expertise in developing and managing relational databases using PostgreSQL. Proficient in performing CRUD operations, data modeling, and applying normalization and denormalization principles. Designed advanced SQL queries for data manipulation and extraction, utilizing techniques such as joins, subqueries, and aggregations to manage data relationships and conduct in-depth analysis. Acquired a solid understanding of key database concepts, including entity relationships, primary and foreign keys, and normalization forms.
+    description: Gained expertise in developing and managing relational databases using PostgreSQL. Proficient in performing CRUD operations, data modeling and applying normalization and denormalization principles. Designed advanced SQL queries for data manipulation and extraction, utilizing techniques such as joins, subqueries, and aggregations to manage data relationships and conduct in-depth analysis. Acquired a solid understanding of key database concepts, including entity relationships, primary and foreign keys, and normalization forms.
   - name: "Core Java Apps"
     git_url: "/core_java"
     description: 

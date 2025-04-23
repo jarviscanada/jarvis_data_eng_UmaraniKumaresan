@@ -37,7 +37,7 @@
       "name": "Linux Cluster Resource Monitoring App"
     },
     {
-      "description": "Gained expertise in developing and managing relational databases using PostgreSQL. Proficient in performing CRUD operations, data modeling, and applying normalization and denormalization principles. Designed advanced SQL queries for data manipulation and extraction, utilizing techniques such as joins, subqueries, and aggregations to manage data relationships and conduct in-depth analysis. Acquired a solid understanding of key database concepts, including entity relationships, primary and foreign keys, and normalization forms.",
+      "description": "Gained expertise in developing and managing relational databases using PostgreSQL. Proficient in performing CRUD operations, data modeling and applying normalization and denormalization principles. Designed advanced SQL queries for data manipulation and extraction, utilizing techniques such as joins, subqueries, and aggregations to manage data relationships and conduct in-depth analysis. Acquired a solid understanding of key database concepts, including entity relationships, primary and foreign keys, and normalization forms.",
       "git_url": "/sql",
       "name": "RDBMS and SQL"
     },
