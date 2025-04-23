@@ -55,11 +55,6 @@
       "name": "Python Data Analytics"
     },
     {
-      "description": "Designed and implemented a scalable big data processing solution on Google Cloud Platform (GCP) using Dataproc. Integrated Apache Zeppelin to enable interactive analytics and utilized the Hive interpreter for SQL-based querying of distributed datasets. The solution delivers enterprise-grade real-time analytics and efficient data processing.",
-      "git_url": "/spark",
-      "name": "Hadoop"
-    },
-    {
       "description": "Conducted data analysis on the World Development Indicators (WDI) and retail datasets using Zeppelin notebooks on GCP Dataproc and Azure Databricks. Utilized PySpark to process large-scale distributed data efficiently. Extracted key economic indicators such as country-wise GDP from the WDI dataset, and derived actionable business insights from the retail dataset, including total revenue, sales trends, and new monthly user metrics to support strategic growth decisions.",
       "git_url": "/spark",
       "name": "Spark"
