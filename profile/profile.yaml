@@ -9,14 +9,14 @@ github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_UmaraniKum
 # 2) explain your passion for the role you are looking for (e.g. developer, BSA, QA, tech support, etc.)
 # 3) mention what kind of role you are looking for
 # 4) briefly talk about your qualifications (soft and tech) to justify why the hiring manager should hire your 
-summary: I have completed a Postgraduate Degree in Project Management from Algoma University, Canada, and hold a Bachelor's Degree in Electrical and Electronics Engineering from Anna University, India. Currently, I am a Software and Data Engineer at Jarvis Technologies Group Inc., where I leverage my skills to develop and deploy efficient and effective software systems. During my postgraduate program, I was a peer tutor, providing individual and small-group lectures to fellow students. I have a proven track record in communication with strong expertise in managing product backlogs, tracking team velocity, and delivering incremental value in an Agile environment. I am well-versed in facilitating Sprint Planning, Daily Stand-ups, Sprint Reviews, and Retrospectives, ensuring effective collaboration and communication within diverse teams. I also have strong technical skills and a solid proficiency in Java, relational databases, and cloud platforms, including Microsoft Azure and Redhat Openshift. Skilled in system support across Unix/Linux and Windows Server, with hands-on experience in CI/CD tools like Jenkins, GitHub, and Artifactory. I greatly enjoy organizing and overcoming technical challenges, exploring new technologies, and developing and supporting software across various platforms. 
-  
+summary: I hold a Postgraduate Degree in Project Management from Algoma University, Canada, and a Bachelor's in Electrical and Electronics Engineering from Anna University, India. Currently, I work as a Software and Data Engineer at Jarvis Technologies Group Inc., where I design and implement Salesforce solutions. I have hands-on experience with Apex, Lightning Web Components (LWC), Lightning Data Service, and Salesforce App Builder. I recently contributed to a bear-tracking application for Ursus Park, where I built reusable LWC components that allowed users to view and update animal profiles seamlessly. With strong Agile project management skill, including sprint planning, backlog management, and cross-functional collaboration, I bring both technical and leadership strengths. I am proficient in Java, relational databases, and cloud platforms like Microsoft Azure and Red Hat OpenShift. I am also pursuing Salesforce certifications to deepen my platform expertise and continue delivering impactful, user-centered solutions
+skills:
  # Group your skills by level.
 # Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
-# DO NOT mention skills that you don't want to work on in the future (e.g. MS office)
-skills:
+# DO NOT mention skills that you don't want to work on in the future (e.g. MS office) 
   # At least 5 skills
   proficient:
+    - Salesforce (Apex, Visualforce, LWC)
     - Java
     - Linux/Bash
     - RDBMS/SQL
@@ -46,6 +46,12 @@ skills:
 
 # List of Jarvis projects
 jarvis_projects:
+
+  - name: "Salesforce"
+    git_url: "/linux_sql"
+    # Please read the project description guideline carefully. Make sure you follow the simplified SDLC pattern. (t.ly/NlXQ)
+    # Please include the following keywords: CentOS, Bash/Shell, docker, RDBMS/SQL/Postgresql, crontab, data analytics
+    description: Utilized Salesforce Lightning Web Components (LWC) and Lightning Data Service to develop reusable components for a bear-tracking application in Ursus Park. Leveraged Salesforce App Builder to design and organize the application page layout efficiently. Built interactive child components that enabled users to view and edit bear profiles directly within the app. Integrated Apex methods for retrieving and updating bear data dynamically. Ensured component reusability and maintainability through modular design and separation of concerns. Conducted end-to-end testing and used Salesforce Debug Logs to troubleshoot and optimize performance.
   - name: "Linux Cluster Resource Monitoring App"
     git_url: "/linux_sql"
     # Please read the project description guideline carefully. Make sure you follow the simplified SDLC pattern. (t.ly/NlXQ)
