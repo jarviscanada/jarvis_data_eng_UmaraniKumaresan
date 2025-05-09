@@ -33,7 +33,7 @@
   "jarvis_projects": [
     {
       "description": "Utilized Salesforce Lightning Web Components (LWC) and Lightning Data Service to develop reusable components for a bear-tracking application in Ursus Park. Leveraged Salesforce App Builder to design and organize the application page layout efficiently. Built interactive child components that enabled users to view and edit bear profiles directly within the app. Integrated Apex methods for retrieving and updating bear data dynamically. Ensured component reusability and maintainability through modular design and separation of concerns. Conducted end-to-end testing and used Salesforce Debug Logs to troubleshoot and optimize performance.",
-      "git_url": "/linux_sql",
+      "git_url": "https://www.salesforce.com/trailblazer/n81yihads114d7d956",
       "name": "Salesforce"
     },
     {
